@@ -1,5 +1,7 @@
 # ChangeDetection
 
+How to optimise Angular app by using "changeDetection: ChangeDetectionStrategy.OnPush" on component to avoid un-necessary DOM tree traversing and change detection.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.9.
 
 ## Development server
